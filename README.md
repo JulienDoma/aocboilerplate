@@ -8,7 +8,7 @@
 4. `pyenv local <your_python_venv_name>` to activate it
 5. Install the package in it with `make install`
 6. Rename `.env.sample` file to `.env`
-7. Fill you cookies session id in `.env` **SESSION** variable from [aoc](https://adventofcode.com/) website
+7. Fill you cookies session id in `.env` **SESSION** variable from [aoc](https://adventofcode.com/) website, to do so :
 8. Log in with your prefered method.
 9. Once logged, you can access this by opening web console => Network => refresh the page and click on the first request GET, you should be able to find the session id in the headers request.
 - You're good to go !
